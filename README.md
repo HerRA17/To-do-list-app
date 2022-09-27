@@ -6,6 +6,6 @@
 A to do list app
 ## Key features
 Displays the typed data as a list item.
-Allows removal of data items.
+Allows crossing off an item, as well as removing of data items.
 ## Technologies used
 HTML5, Jquery, CSS
