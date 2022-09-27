@@ -1,11 +1,11 @@
 ## To do list app
-*[General info](#general-info)
-*[Key features](#key-features)
-*[Technologies used](#technologies-used)
-##General info
+* [General info](#general-info)
+* [Key features](#key-features)
+* [Technologies used](#technologies-used)
+## General info
 A to do list app
-##Key features
+## Key features
 Displays the typed data as a list item.
 Allows removal of data items.
-##Technologies used
+## Technologies used
 HTML5, Jquery, CSS
